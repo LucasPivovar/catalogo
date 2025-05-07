@@ -91,7 +91,7 @@ export default {
   
   header{     
     display: flex;     
-    color: var(--text-primary);     
+    color: var(--text-primary);
     align-items: center;     
     justify-content: space-between;     
     margin-top: 1rem;     
